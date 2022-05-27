@@ -1,0 +1,77 @@
+{
+  "GameModeType": 0,
+  "CastleDamageMode": 0,
+  "CastleHeartDamageMode": 0,
+  "DeathContainerPermission": 1,
+  "RelicSpawnType": 1,
+  "TeleportBoundItems": true,
+  "CanLootEnemyContainers": false,
+  "InventoryStacksModifier": 5.0,
+  "DropTableModifier_General": 3.5,
+  "DropTableModifier_Missions": 4.5,
+  "MaterialYieldModifier_Global": 3.5,
+  "BloodEssenceYieldModifier": 2.78,
+  "ClanSize": 1,
+  "DurabilityDrainModifier": 0.17,
+  "CastleDecayRateModifier": 0.21,
+  "CastleBloodEssenceDrainModifier": 0.3,
+  "AnnounceSiegeWeaponSpawn": false,
+  "CraftRateModifier": 5.0,
+  "RefinementRateModifier": 5.0,
+  "DismantleResourceModifier": 1.0,
+  "ServantConvertRateModifier": 6.26,
+  "Death_DurabilityFactorLoss": 0.0,
+  "Death_DurabilityLossFactorAsResources": 0.0,
+  "VBloodUnitSettings": [],
+  "UnlockedAchievements": [],
+  "UnlockedResearchs": [],
+  "GameTimeModifiers": {},
+  "VampireStatModifiers": {},
+  "UnitStatModifiers_Global": {},
+  "UnitStatModifiers_VBlood": {},
+  "EquipmentStatModifiers_Global": {
+    "ResourceYieldModifier": 3.33
+  },
+  "CastleStatModifiers_Global": {
+    "SafetyBoxLimit": 6,
+    "VerminNestLimit": 10,
+    "PylonPenalties": {
+      "Range1": {},
+      "Range2": {},
+      "Range3": {},
+      "Range4": {},
+      "Range5": {}
+    },
+    "FloorPenalties": {
+      "Range1": {},
+      "Range2": {},
+      "Range3": {},
+      "Range4": {},
+      "Range5": {}
+    },
+    "HeartLimits": {
+      "Level1": {
+        "FloorLimit": 250,
+        "ServantLimit": 16
+      },
+      "Level2": {
+        "FloorLimit": 250,
+        "ServantLimit": 16
+      },
+      "Level3": {
+        "FloorLimit": 250,
+        "ServantLimit": 16
+      },
+      "Level4": {
+        "ServantLimit": 16
+      }
+    },
+    "CastleLimit": 5
+  },
+  "PlayerInteractionSettings": {
+    "VSPlayerWeekdayTime": {},
+    "VSPlayerWeekendTime": {},
+    "VSCastleWeekdayTime": {},
+    "VSCastleWeekendTime": {}
+  }
+}
